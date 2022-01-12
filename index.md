@@ -1,5 +1,9 @@
 # Edwin Github Pages
 
+## This is me before getting fat :(
+    
+<img src="Foto.jpg" alt="drawing" width="200"/>
+
 ## Using italics and bold
 
 *This text is in italic* 
