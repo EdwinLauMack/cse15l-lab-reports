@@ -1,7 +1,12 @@
 # Edwin Github Pages
 
+[My Github Page](index.html)
+
+[My Github Page 2](https://edwinlaumack.github.io/cse15l-lab-reports/index.html
+)
+
 ## This is me before getting fat :(
-    
+
 <img src="Foto.jpg" alt="drawing" width="200"/>
 
 ## Using italics and bold
